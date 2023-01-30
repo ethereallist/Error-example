@@ -1,1 +1,36 @@
-//ist´s new
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="main.css" type="text/css">
+</head>
+<body>
+
+<header>
+</header>
+
+  
+<!-- <div class="flex-container">
+      <div class="box box1">  One..</div>
+      <div class="box box2">  Two..</div>
+      <div class="box box3">  Three..</div>
+      <div class="box box4">  Four..</div>
+      <div class="box box5">  Five..</div>
+      <div class="box box6">  Six..</div>
+      <div class="box box7">  Seven..</div>
+    </div>
+
+-->  
+<nav> <div class="flex-container">
+      <div class="box box1">  Inicio</div>
+      <div class="box box2">  Proyectos</div>
+      <div class="box box3">  Sobre mí</div>
+      <div class="box box4">  Contacto</div>
+    </div>
+
+</nav> 
+<footer>
+</footer>
+
+</body>  
+
+</html>
